@@ -12,3 +12,4 @@
 4. Click the Insert HTML button.
 5. Paste Your HTML Code.
 6. Send your email.
+<img width="988" height="90" alt="Insert HTML Button" src="https://github.com/user-attachments/assets/28b2237e-b24b-4a87-8ee4-6ea022a4561d" />
