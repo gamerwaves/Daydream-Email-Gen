@@ -7,7 +7,7 @@
 
 # Userscript Method for Gmail
 1. Install a userscript manager for your browser (Tampermonkey, Greasemonkey, etc.).
-2. Install the userscript [here](main.user.js).
+2. Install the userscript [here](https://raw.githubusercontent.com/gamerwaves/Daydream-Email-Gen/refs/heads/main/main.user.js).
 3. Open Gmail.
 4. Click the Insert HTML button.
 5. Paste Your HTML Code.
